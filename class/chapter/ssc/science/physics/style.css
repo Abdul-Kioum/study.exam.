@@ -1,1 +1,246 @@
+body{
+    background: #ddd;
+}
+.Physics {
+    background: black;
+    color: white;
+    border: 3px solid teal;
+    border-radius: 5px;
+}
+.phy-1{
+    margin-top: 8px;
+}
+.Physics {
+    margin: 5px;
+    padding: 3px;
+}
+.container {
+    background: #ddd;
+}
+.Physics {
+    font-size: 40px;
+}
+.Physics {
+    position: sticky;
+    top: 0;
+}
+.part-1 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-1 {
+    font-size: 35px;
+}
+.part-1 {
+    background: silver;
+}
+.part-1 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
 
+.part-2 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-2 {
+    font-size: 35px;
+}
+.part-2 {
+    background: silver;
+}
+.part-2 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-3 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-3 {
+    font-size: 35px;
+}
+.part-3 {
+    background: silver;
+}
+.part-3 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-4 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-4 {
+    font-size: 35px;
+}
+.part-4 {
+    background: silver;
+}
+.part-4 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-5 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-5 {
+    font-size: 35px;
+}
+.part-5 {
+    background: silver;
+}
+.part-5 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+
+.part-6 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-6 {
+    font-size: 35px;
+}
+.part-6 {
+    background: silver;
+}
+.part-6 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-7 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-7 {
+    font-size: 40px;
+}
+.part-7 {
+    background: silver;
+}
+.part-7 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-8 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px
+}
+.part-8 {
+    font-size: 35px;
+}
+.part-8 {
+    background: silver;
+}
+.part-8 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-9 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-9 {
+    font-size: 35px;
+}
+.part-9 {
+    background: silver;
+}
+.part-9 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-10 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-10 {
+    font-size: 35px;
+}
+.part-10 {
+    background: silver;
+}
+.part-10 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-11 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-11 {
+    font-size: 35px;
+}
+.part-11 {
+    background: silver;
+}
+.part-11 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.part-12 {
+    margin: 5px;
+    padding: 0px;
+    border-radius: 20px;
+}
+.part-12 {
+    font-size: 35px;
+}
+.part-12 {
+    background: silver;
+}
+.part-12 {
+    width: 250px;
+    height: 50px;
+    margin: auto;
+}
+.part-12 {
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+.container {}
+
+.container ul li a:hover {
+    background: #333;
+    color: white;
+    border-radius: 20px;
+    width: 300px;
+    height: 60px;
+    transition: all 0.5s;
+}
